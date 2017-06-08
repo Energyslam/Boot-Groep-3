@@ -640,3 +640,6 @@ C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\obj\De
 C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.g.resources
 C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.Properties.Resources.resources
 C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.csproj.GenerateResource.Cache
+C:\Users\Max\Documents\Boot-Groep-3\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.exe.config
+C:\Users\Max\Documents\Boot-Groep-3\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.exe
+C:\Users\Max\Documents\Boot-Groep-3\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.pdb
