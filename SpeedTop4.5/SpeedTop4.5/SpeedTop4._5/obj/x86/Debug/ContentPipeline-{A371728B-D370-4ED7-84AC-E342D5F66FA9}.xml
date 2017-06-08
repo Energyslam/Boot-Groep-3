@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GameFont.spritefont</Source>
+      <Name>GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Time>2017-05-22T01:38:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gourmet.mp3</Source>
+      <Name>gourmet</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\gourmet.xnb</Output>
+      <Extra>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\gourmet.wma</Extra>
+      <Time>2017-05-22T01:35:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>nier1.mp3</Source>
+      <Name>nier1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\nier1.xnb</Output>
+      <Extra>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\nier1.wma</Extra>
+      <Time>2017-05-22T01:35:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_background.jpg</Source>
+      <Name>spr_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\spr_background.xnb</Output>
+      <Time>2017-05-22T01:38:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_gameover.jpg</Source>
+      <Name>spr_gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\spr_gameover.xnb</Output>
+      <Time>2017-05-22T01:38:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_hamburger.png</Source>
+      <Name>spr_hamburger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\spr_hamburger.xnb</Output>
+      <Time>2017-05-22T01:38:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_menuarrow.png</Source>
+      <Name>spr_menuarrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\spr_menuarrow.xnb</Output>
+      <Time>2017-05-22T01:38:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_player.png</Source>
+      <Name>spr_player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\spr_player.xnb</Output>
+      <Time>2017-05-22T01:38:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_player2.png</Source>
+      <Name>spr_player2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\spr_player2.xnb</Output>
+      <Time>2017-05-22T01:38:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_playerOption1.png</Source>
+      <Name>spr_playerOption1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\spr_playerOption1.xnb</Output>
+      <Time>2017-05-22T01:38:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_playerOption3.png</Source>
+      <Name>spr_playerOption3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\spr_playerOption3.xnb</Output>
+      <Time>2017-05-22T01:38:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_powerup.png</Source>
+      <Name>spr_powerup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\spr_powerup.xnb</Output>
+      <Time>2017-05-22T01:38:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_testblok.png</Source>
+      <Name>spr_testblok</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\spr_testblok.xnb</Output>
+      <Time>2017-05-22T01:38:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>dikFemale.png</Source>
+      <Name>dikFemale</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\dikFemale.xnb</Output>
+      <Time>2017-05-22T01:38:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>dikNormaal.png</Source>
+      <Name>dikNormaal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\dikNormaal.xnb</Output>
+      <Time>2017-05-22T01:38:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>dunFemale.png</Source>
+      <Name>dunFemale</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\dunFemale.xnb</Output>
+      <Time>2017-05-22T01:38:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>dunMondje.png</Source>
+      <Name>dunMondje</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\dunMondje.xnb</Output>
+      <Time>2017-05-22T01:38:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>dunNormaal.png</Source>
+      <Name>dunNormaal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\dunNormaal.xnb</Output>
+      <Time>2017-05-22T01:38:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>grootMondje.png</Source>
+      <Name>grootMondje</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\grootMondje.xnb</Output>
+      <Time>2017-05-22T01:38:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>normaalFemale.png</Source>
+      <Name>normaalFemale</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\normaalFemale.xnb</Output>
+      <Time>2017-05-22T01:38:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>normaalMondje.png</Source>
+      <Name>normaalMondje</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\normaalMondje.xnb</Output>
+      <Time>2017-05-22T01:38:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>normaalNormaal.png</Source>
+      <Name>normaalNormaal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\normaalNormaal.xnb</Output>
+      <Time>2017-05-22T01:38:32+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A371728B-D370-4ED7-84AC-E342D5F66FA9}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\SpeedTop4.5\SpeedTop4._5\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-04-30T20:48:35.5792219+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

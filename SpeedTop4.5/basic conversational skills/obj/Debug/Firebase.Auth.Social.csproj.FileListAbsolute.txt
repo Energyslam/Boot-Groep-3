@@ -1,0 +1,642 @@
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.exe.config
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.exe
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.pdb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Facebook.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Database.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\log4net.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Core.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Zlib.Portable.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Facebook.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.pdb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\log4net.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Core.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Zlib.Portable.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\MainWindow.g.cs
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\App.g.cs
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social_MarkupCompile.cache
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social_MarkupCompile.lref
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\MainWindow.baml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.g.resources
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.Properties.Resources.resources
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.csproj.GenerateResource.Cache
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.exe
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.pdb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\InformationProject4._5.exe
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\InformationProject4._5.pdb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\GameFont.xnb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\gourmet.xnb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\nier1.xnb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_background.xnb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_gameover.xnb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_hamburger.xnb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_menuarrow.xnb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_player.xnb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_player2.xnb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_playerOption1.xnb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_playerOption3.xnb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_powerup.xnb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_testblok.xnb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\gourmet.wma
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\nier1.wma
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\SpeedTop4._5.exe
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\GameManagement.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Server4._5.exe
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\SpeedTop4._5.pdb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\GameManagement.pdb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Server4._5.pdb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\GameFont.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\gourmet.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\nier1.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_background.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_gameover.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_hamburger.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_menuarrow.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_player.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_player2.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_playerOption1.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_playerOption3.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_powerup.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_testblok.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\gourmet.wma
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\nier1.wma
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.exe.config
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.exe
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.pdb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Facebook.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Database.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\InformationProject4._5.exe
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\log4net.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\SpeedTop4._5.exe
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Core.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Zlib.Portable.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\GameManagement.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Server4._5.exe
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\InformationProject4._5.pdb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\SpeedTop4._5.pdb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Facebook.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.pdb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\log4net.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Core.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Zlib.Portable.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\GameManagement.pdb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Server4._5.pdb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\MainWindow.g.cs
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\App.g.cs
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social_MarkupCompile.cache
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social_MarkupCompile.lref
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\MainWindow.baml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.g.resources
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.Properties.Resources.resources
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.csproj.GenerateResource.Cache
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.exe
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.pdb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dikFemale.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dikNormaal.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunFemale.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunMondje.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunNormaal.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\grootMondje.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalFemale.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalMondje.xnb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalNormaal.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Facebook.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Database.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\InformationProject4._5.exe
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\log4net.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\SpeedTop4._5.exe
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Core.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Linq.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Zlib.Portable.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\GameManagement.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Server4._5.exe
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\InformationProject4._5.pdb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\SpeedTop4._5.pdb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Facebook.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.pdb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.pdb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\log4net.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Core.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Linq.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Zlib.Portable.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\GameManagement.pdb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Server4._5.pdb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.csprojResolveAssemblyReference.cache
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\obj\Debug\MainWindow.g.cs
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\obj\Debug\App.g.cs
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social_MarkupCompile.cache
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social_MarkupCompile.lref
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\obj\Debug\MainWindow.baml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.g.resources
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.Properties.Resources.resources
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.csproj.GenerateResource.Cache
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.exe
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.pdb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.exe.config
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\GameFont.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\gourmet.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\nier1.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_background.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_gameover.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_hamburger.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_menuarrow.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_player.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_player2.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_playerOption1.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_playerOption3.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_powerup.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_testblok.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dikFemale.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dikNormaal.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunFemale.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunMondje.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunNormaal.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\grootMondje.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalFemale.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalMondje.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalNormaal.xnb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\gourmet.wma
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Content\nier1.wma
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.exe
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.pdb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.exe.config
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.exe
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.pdb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\GameFont.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\gourmet.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\nier1.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_background.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_gameover.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_hamburger.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_menuarrow.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_player.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_player2.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_playerOption1.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_playerOption3.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_powerup.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_testblok.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dikFemale.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dikNormaal.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunFemale.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunMondje.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunNormaal.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\grootMondje.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalFemale.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalMondje.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalNormaal.xnb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\gourmet.wma
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Content\nier1.wma
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.exe
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.pdb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Facebook.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Database.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\InformationProject4._5.exe
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\log4net.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\SpeedTop4._5.exe
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Core.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Linq.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Zlib.Portable.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\GameManagement.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Server4._5.exe
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\InformationProject4._5.pdb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\SpeedTop4._5.pdb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Facebook.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.pdb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.pdb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\log4net.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Core.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Linq.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Zlib.Portable.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\GameManagement.pdb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Server4._5.pdb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.csprojResolveAssemblyReference.cache
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\obj\Debug\MainWindow.g.cs
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\obj\Debug\App.g.cs
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social_MarkupCompile.cache
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social_MarkupCompile.lref
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\obj\Debug\MainWindow.baml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.g.resources
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.Properties.Resources.resources
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.csproj.GenerateResource.Cache
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\GameFont.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\gourmet.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\nier1.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_background.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_gameover.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_hamburger.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_menuarrow.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_player.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_player2.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_playerOption1.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_playerOption3.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_powerup.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_testblok.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dikFemale.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dikNormaal.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunFemale.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunMondje.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunNormaal.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\grootMondje.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalFemale.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalMondje.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalNormaal.xnb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\gourmet.wma
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Content\nier1.wma
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.exe.config
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.exe
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.pdb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Facebook.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Database.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\InformationProject4._5.exe
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\log4net.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\SpeedTop4._5.exe
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Core.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Zlib.Portable.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\GameManagement.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Server4._5.exe
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\InformationProject4._5.pdb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\SpeedTop4._5.pdb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Facebook.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.pdb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\log4net.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Core.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Zlib.Portable.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\GameManagement.pdb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Server4._5.pdb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\obj\Debug\MainWindow.g.cs
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\obj\Debug\App.g.cs
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social_MarkupCompile.cache
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social_MarkupCompile.lref
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\obj\Debug\MainWindow.baml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.g.resources
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.Properties.Resources.resources
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.csproj.GenerateResource.Cache
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.exe
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.pdb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.exe.config
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.exe
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.pdb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\GameFont.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\gourmet.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\nier1.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_background.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_gameover.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_hamburger.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_menuarrow.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_player.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_player2.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_playerOption1.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_playerOption3.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_powerup.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_testblok.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dikFemale.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dikNormaal.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunFemale.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunMondje.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunNormaal.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\grootMondje.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalFemale.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalMondje.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalNormaal.xnb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\gourmet.wma
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Content\nier1.wma
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.exe
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.pdb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Facebook.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Database.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\InformationProject4._5.exe
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\log4net.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\SpeedTop4._5.exe
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Core.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Linq.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Zlib.Portable.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\GameManagement.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Server4._5.exe
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\InformationProject4._5.pdb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\SpeedTop4._5.pdb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Facebook.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.pdb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.pdb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\log4net.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Core.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Linq.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Zlib.Portable.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\GameManagement.pdb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Server4._5.pdb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.csprojResolveAssemblyReference.cache
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\obj\Debug\MainWindow.g.cs
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\obj\Debug\App.g.cs
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social_MarkupCompile.cache
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social_MarkupCompile.lref
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\obj\Debug\MainWindow.baml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.g.resources
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.Properties.Resources.resources
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.csproj.GenerateResource.Cache
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.exe.config
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.exe
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.pdb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\GameFont.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\gourmet.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\nier1.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_background.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_gameover.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_hamburger.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_menuarrow.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_player.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_player2.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_playerOption1.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_playerOption3.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_powerup.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\spr_testblok.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dikFemale.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dikNormaal.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunFemale.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunMondje.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\dunNormaal.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\grootMondje.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalFemale.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalMondje.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\normaalNormaal.xnb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\gourmet.wma
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Content\nier1.wma
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.exe
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.Social.pdb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Facebook.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Auth.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Firebase.Database.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\InformationProject4._5.exe
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\log4net.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\SpeedTop4._5.exe
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Core.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Zlib.Portable.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\GameManagement.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Server4._5.exe
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\InformationProject4._5.pdb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\SpeedTop4._5.pdb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Facebook.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.pdb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.Core.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\log4net.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Core.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Zlib.Portable.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\GameManagement.pdb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Server4._5.pdb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\bin\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\obj\Debug\MainWindow.g.cs
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\obj\Debug\App.g.cs
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social_MarkupCompile.cache
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social_MarkupCompile.lref
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\obj\Debug\MainWindow.baml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.g.resources
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.Properties.Resources.resources
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\basic conversational skills\obj\Debug\Firebase.Auth.Social.csproj.GenerateResource.Cache

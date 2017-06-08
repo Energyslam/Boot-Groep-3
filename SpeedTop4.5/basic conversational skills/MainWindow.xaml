@@ -1,0 +1,47 @@
+﻿<Window x:Class="Firebase.Auth.Social.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Firebase.Auth.Social"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Button 
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center" 
+            Content="Start de game" 
+            Click="DataRetrieveClick" Margin="213,206,206,64" RenderTransformOrigin="-1.218,-1" Height="49" Width="98" 
+            />
+        <Button 
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center" 
+            Content="Stuur data" 
+            Click="DataSendClick" Margin="213,138,206,134" RenderTransformOrigin="0.982,-2" Height="47" Width="98" 
+            />
+
+        <Button
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center" 
+            Content="Login with google" 
+            Click="GoogleClick" Margin="106,59,97,213" Height="47" Width="314" 
+            />
+
+        <TextBlock
+            Text="(Opens in your browser)"
+            TextWrapping="Wrap"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            Margin="200,106,181,186" Height="27" Width="136"
+            />
+
+        <WebBrowser 
+            x:Name="Browser"
+            Visibility="Collapsed"
+            Navigated="BrowserNavigated"
+            />
+    </Grid>
+</Window>

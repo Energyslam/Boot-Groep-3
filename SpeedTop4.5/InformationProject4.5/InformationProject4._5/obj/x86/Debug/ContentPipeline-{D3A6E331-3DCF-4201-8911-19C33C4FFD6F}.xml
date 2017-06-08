@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D3A6E331-3DCF-4201-8911-19C33C4FFD6F}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-04-30T20:48:35.5792219+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

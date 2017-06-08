@@ -1,0 +1,176 @@
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.exe
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.pdb
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.exe
+C:\Users\Max\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.pdb
+C:\Users\Gregor\Documents\Visual Studio 2015\Projects\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.exe
+C:\Users\Gregor\Documents\Visual Studio 2015\Projects\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.pdb
+C:\Users\Gregor\Documents\Visual Studio 2015\Projects\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Gregor\Documents\Visual Studio 2015\Projects\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Gregor\Documents\Visual Studio 2015\Projects\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Gregor\Documents\Visual Studio 2015\Projects\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Gregor\Documents\Visual Studio 2015\Projects\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Gregor\Documents\Visual Studio 2015\Projects\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Gregor\Documents\Visual Studio 2015\Projects\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Gregor\Documents\Visual Studio 2015\Projects\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Gregor\Documents\Visual Studio 2015\Projects\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Gregor\Documents\Visual Studio 2015\Projects\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Gregor\Documents\Visual Studio 2015\Projects\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.csprojResolveAssemblyReference.cache
+C:\Users\Gregor\Documents\Visual Studio 2015\Projects\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gregor\Documents\Visual Studio 2015\Projects\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.exe
+C:\Users\Gregor\Documents\Visual Studio 2015\Projects\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.pdb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.exe
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.pdb
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.exe
+C:\Users\Gebruiker\Desktop\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.pdb
+C:\Users\GodTrubbelz\Desktop\game samengevoegd 21 mei\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.exe
+C:\Users\GodTrubbelz\Desktop\game samengevoegd 21 mei\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.pdb
+C:\Users\GodTrubbelz\Desktop\game samengevoegd 21 mei\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\GodTrubbelz\Desktop\game samengevoegd 21 mei\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\GodTrubbelz\Desktop\game samengevoegd 21 mei\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\GodTrubbelz\Desktop\game samengevoegd 21 mei\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\GodTrubbelz\Desktop\game samengevoegd 21 mei\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\GodTrubbelz\Desktop\game samengevoegd 21 mei\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\GodTrubbelz\Desktop\game samengevoegd 21 mei\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\GodTrubbelz\Desktop\game samengevoegd 21 mei\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\GodTrubbelz\Desktop\game samengevoegd 21 mei\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\GodTrubbelz\Desktop\game samengevoegd 21 mei\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\GodTrubbelz\Desktop\game samengevoegd 21 mei\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.csprojResolveAssemblyReference.cache
+C:\Users\GodTrubbelz\Desktop\game samengevoegd 21 mei\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GodTrubbelz\Desktop\game samengevoegd 21 mei\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.exe
+C:\Users\GodTrubbelz\Desktop\game samengevoegd 21 mei\Speedtop4.5\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.pdb
+C:\Users\GodTrubbelz\Desktop\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.exe
+C:\Users\GodTrubbelz\Desktop\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.pdb
+C:\Users\GodTrubbelz\Desktop\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\GodTrubbelz\Desktop\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\GodTrubbelz\Desktop\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\GodTrubbelz\Desktop\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\GodTrubbelz\Desktop\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\GodTrubbelz\Desktop\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\GodTrubbelz\Desktop\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\GodTrubbelz\Desktop\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\GodTrubbelz\Desktop\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\GodTrubbelz\Desktop\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\GodTrubbelz\Desktop\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.csprojResolveAssemblyReference.cache
+C:\Users\GodTrubbelz\Desktop\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GodTrubbelz\Desktop\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.exe
+C:\Users\GodTrubbelz\Desktop\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.pdb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.exe
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.pdb
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.csprojResolveAssemblyReference.cache
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.exe
+C:\Users\erol9\Desktop\puntenv4\backupjev2\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.pdb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.exe
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.pdb
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.csprojResolveAssemblyReference.cache
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.exe
+C:\Users\GodTrubbelz\Desktop\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.pdb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.exe
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.pdb
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.exe
+C:\Users\Max\Desktop\hostless speed\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.pdb
+C:\Users\Gebruiker\Desktop\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.exe
+C:\Users\Gebruiker\Desktop\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.pdb
+C:\Users\Gebruiker\Desktop\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Gebruiker\Desktop\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Gebruiker\Desktop\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Gebruiker\Desktop\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Gebruiker\Desktop\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Gebruiker\Desktop\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Gebruiker\Desktop\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Gebruiker\Desktop\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Gebruiker\Desktop\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Gebruiker\Desktop\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Gebruiker\Desktop\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gebruiker\Desktop\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.exe
+C:\Users\Gebruiker\Desktop\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.pdb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.exe
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.pdb
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.csprojResolveAssemblyReference.cache
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.exe
+C:\Users\erol9\Desktop\Nieuwe map\hostless speedFIXED\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.pdb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.exe
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\InformationProject4._5.pdb
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.exe
+C:\Users\Max\Desktop\BOOT groep 3\SpeedTop4.5\InformationProject4.5\InformationProject4._5\obj\x86\Debug\InformationProject4._5.pdb
